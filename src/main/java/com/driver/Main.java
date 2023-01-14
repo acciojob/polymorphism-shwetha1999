@@ -6,7 +6,7 @@ public class Main {
         Product p = new Product();
         p.product(10, 10);
         p.product(10, 10, 10);
-        p.product(10.00, 10.00);
+        p.product(432.432, 432.432);
 
 
     }
